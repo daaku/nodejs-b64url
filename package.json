@@ -1,7 +1,7 @@
 {
   "name": "b64url",
   "description": "URL safe base64 encoding/decoding.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/nshah/nodejs-b64url",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/b64url",
