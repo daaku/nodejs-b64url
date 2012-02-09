@@ -1,4 +1,4 @@
-b64url
+b64url [![Build Status](https://secure.travis-ci.org/nshah/nodejs-b64url.png)](http://travis-ci.org/nshah/nodejs-b64url)
 ======
 
 URL safe base64 encoding/decoding as described
