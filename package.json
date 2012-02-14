@@ -1,7 +1,7 @@
 {
   "name": "b64url",
   "description": "URL safe base64 encoding/decoding.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/nshah/nodejs-b64url",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/b64url",
@@ -9,9 +9,9 @@
     "type": "git",
     "url": "https://github.com/nshah/nodejs-b64url"
   },
-  "scripts": { "test": "NODE_PATH=./lib ./node_modules/.bin/mocha --ui exports" },
+  "scripts": { "test": "NODE_PATH=./lib mocha --ui exports" },
   "devDependencies": {
-    "mocha": ">= 0.12.0"
+    "mocha": "0.12.x"
   },
-  "engines": { "node": ">= 0.6.10" }
+  "engines": { "node": "0.6.x" }
 }
